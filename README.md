@@ -1,0 +1,2 @@
+# Calculadora_RMI_Completa_Jediel
+CALCULADORA JAVA RMI COM AS QUATRO OPERAÇÕES  Atividade de Jediel Eliézer Santos de Oliveira  Esta versão amplia a calculadora do repositório do professor com subtração, multiplicação e divisão, preservando a soma e a comunicação Java RMI. Origem do projeto: https://github.com/hdebiasi/ad-java-2026
